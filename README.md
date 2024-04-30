@@ -1,5 +1,5 @@
-# TIP CALCULATOR
-#### Tip calculador made by html, css, javascript.
+# EXPENSE TRACKET
+Expense tracket  to  add an item, price and delete in case you want to.
 
 
 <br />
